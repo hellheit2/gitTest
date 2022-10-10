@@ -22,6 +22,10 @@ feature1_2
 
 
 release
+=======
+
+
+feature2
 1
 2
 3
