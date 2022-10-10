@@ -16,6 +16,8 @@ hot
 feature1
 1
 2
+feature1_2
+1
 
 release
 1
