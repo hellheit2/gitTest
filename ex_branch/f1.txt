@@ -23,7 +23,7 @@ feature1_2
 
 release
 =======
-
+2
 
 feature2
 1
